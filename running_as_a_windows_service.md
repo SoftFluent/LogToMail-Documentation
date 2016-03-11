@@ -6,5 +6,5 @@ Once you are satisfied with your rules in test mode, it’s time to run LogToMai
 
 To unregister the service from Windows, just type LogToMail.exe /u.
 
-![Windows service](11 - windows service.png)
+![Windows service](img/11 - windows service.png)
 
